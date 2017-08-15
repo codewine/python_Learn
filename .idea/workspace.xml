@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="514b47e6-7b61-49c7-8238-2434a6d20ced" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4函数式编程/4.2返回函数.py" afterPath="$PROJECT_DIR$/4函数式编程/4.2返回函数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4函数式编程/4.3匿名函数.py" afterPath="$PROJECT_DIR$/4函数式编程/4.3匿名函数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4函数式编程/4.4装饰器.py" afterPath="$PROJECT_DIR$/4函数式编程/4.4装饰器.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4函数式编程/4.5偏函数.py" afterPath="$PROJECT_DIR$/4函数式编程/4.5偏函数.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="廖雪峰.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -198,8 +196,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="190" />
+    <option name="x" value="373" />
+    <option name="y" value="42" />
     <option name="width" value="1260" />
     <option name="height" value="644" />
   </component>
@@ -632,7 +630,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="190" width="1260" height="644" extended-state="0" />
+    <frame x="373" y="42" width="1260" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25779969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
