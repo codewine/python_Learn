@@ -41,7 +41,6 @@ len('ABC')
 ###
 print('配合getattr()、setattr()以及hasattr()，我们可以直接操作一个对象的状态：')
 
-
 class MyObject(object):
     def __init__(self):
         self.x = 9
@@ -52,4 +51,22 @@ class MyObject(object):
 
 obj = MyObject()
 
+
+print('# 有属性x吗？')
 print(hasattr(obj, 'x'))
+# 获取属性'x'
+print(getattr(obj, 'x'))
+
+fn = getattr(obj, 'power')
+
+print(fn)
+print(fn())
+
+# 只有在不知道对象信息的时候，我们才会去获取对象信息
+# 一个正确的用法的例子如下：
+
+def readImage(fp):
+    if hasattr(fp, 'read'):
+        #首先要判断该fp对象是否存在read方法，如果存在，则该对象是一个流
+        # return readData(fp)
+    return None

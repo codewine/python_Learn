@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="514b47e6-7b61-49c7-8238-2434a6d20ced" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.1使用__slots__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.2使用@property.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.3多重继承.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.4定制类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.5使用枚举类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7面对对象高级编程/7.6使用元类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8错误、调试和测试/8.1错误处理.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8错误、调试和测试/8.2调试.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8错误、调试和测试/8.3单元测试.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8错误、调试和测试/8.4文档测试.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9IO编程/9.1文件读写.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9IO编程/9.2StringIO和BytesIO.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9IO编程/9.3操作文件和目录.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9IO编程/9.4序列化.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5模块/5.2安装第三方模块.py" afterPath="$PROJECT_DIR$/5模块/5.2安装第三方模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6面向对象编程/6.1类和实例.py" afterPath="$PROJECT_DIR$/6面向对象编程/6.1类和实例.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6面向对象编程/6.2访问限制.py" afterPath="$PROJECT_DIR$/6面向对象编程/6.2访问限制.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6面向对象编程/6.3继承和多态.py" afterPath="$PROJECT_DIR$/6面向对象编程/6.3继承和多态.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6面向对象编程/6.4获取对象信息.py" afterPath="$PROJECT_DIR$/6面向对象编程/6.4获取对象信息.py" />
     </list>
     <ignored path="廖雪峰.iws" />
@@ -41,7 +21,7 @@
     <SUITE FILE_PATH="coverage/廖雪峰$6_2.coverage" NAME="6.2访问限制 Coverage Results" MODIFIED="1503417343162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6面向对象编程" />
     <SUITE FILE_PATH="coverage/廖雪峰$3_4.coverage" NAME="3.4生成器 Coverage Results" MODIFIED="1500300969772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3高级特性" />
     <SUITE FILE_PATH="coverage/廖雪峰$6_3.coverage" NAME="6.3继承和多态 Coverage Results" MODIFIED="1503416867952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6面向对象编程" />
-    <SUITE FILE_PATH="coverage/python_Learn$6_4.coverage" NAME="6.4获取对象信息 Coverage Results" MODIFIED="1503482469320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_Learn$6_4.coverage" NAME="6.4获取对象信息 Coverage Results" MODIFIED="1503573479036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6面向对象编程" />
     <SUITE FILE_PATH="coverage/廖雪峰$4_1_1_map_reduce.coverage" NAME="4.1.1 map reduce Coverage Results" MODIFIED="1502635996857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4函数式编程/4.1高阶函数" />
     <SUITE FILE_PATH="coverage/廖雪峰$2_3.coverage" NAME="2.3函数的参数 Coverage Results" MODIFIED="1501027860241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2函数" />
     <SUITE FILE_PATH="coverage/廖雪峰$3_3.coverage" NAME="3.3列表生成式 Coverage Results" MODIFIED="1500300719765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3高级特性" />
@@ -64,11 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="6.4获取对象信息.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6.4获取对象信息.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6面向对象编程/6.4获取对象信息.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+            <state relative-caret-position="384">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.5实例属性和类属性.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6面向对象编程/6.5实例属性和类属性.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,10 +136,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="23" />
+    <option name="x" value="51" />
+    <option name="y" value="39" />
     <option name="width" value="1428" />
-    <option name="height" value="698" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -176,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,6 +200,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -571,7 +561,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="23" width="1428" height="698" extended-state="0" />
+    <frame x="51" y="39" width="1428" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22619048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -580,7 +570,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32851985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3176661" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2651297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -618,58 +608,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.2访问限制.py">
+    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.4获取对象信息.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.3继承和多态.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5模块/5.1使用模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5模块/5.2安装第三方模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.2访问限制.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.3继承和多态.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6面向对象编程/6.4获取对象信息.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="384">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6面向对象编程/6.5实例属性和类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
